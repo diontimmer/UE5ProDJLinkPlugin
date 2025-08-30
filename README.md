@@ -2,7 +2,7 @@
 
 **Beat Link Trigger / Pioneer Gear Support for Unreal Engine 5**
 
-This plugin links **Unreal Engine 5** with Pioneer CDJs and DJM mixers via [Beat Link Trigger](https://github.com/DeepSymmetry/beat-link-trigger). It supplies a Blueprint-friendly interface and asset system for synchronizing gameplay, visuals, and other events with DJ equipment.
+This plugin links **Unreal Engine 5** with Pioneer CDJs and DJM mixers via [Beat Link Trigger](https://github.com/Deep-Symmetry/beat-link-trigger). It supplies a Blueprint-friendly interface and asset system for synchronizing gameplay, visuals, and other events with DJ equipment.
 
 ⚠️ **Disclaimer:** I am not affiliated with Pioneer, and this plugin is provided for educational/experimental purposes only.
 
