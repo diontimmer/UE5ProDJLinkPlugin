@@ -6,6 +6,8 @@ This plugin links **Unreal Engine 5** with Pioneer CDJs and DJM mixers via [Beat
 
 ⚠️ **Disclaimer:** I am not affiliated with Pioneer, and this plugin is provided for educational/experimental purposes only.
 
+![ProDJLink Plugin](img.png)
+
 ---
 
 ## ✨ Features
@@ -28,7 +30,7 @@ This plugin links **Unreal Engine 5** with Pioneer CDJs and DJM mixers via [Beat
 ## ⚙️ Installation & Setup
 1. Install and enable the **OSC plugin** in Unreal.
 2. Install **Beat Link Trigger** and confirm it can see your CDJs/DJM.
-3. Install the included **Beat Link Trigger** preset file.
+3. Install the included **Beat Link Trigger** preset file **ue5.blt**.
 4. Copy this plugin into your UE5 project’s `Plugins/` folder.
 5. Place a **BP_ProDJLinkManager** into your level.  
    - Default settings should work with the included Beat Link Trigger preset.  
